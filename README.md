@@ -17,5 +17,5 @@ For ZeroBank You need open Folder !(zerobank automation)! in Your IDE and run th
 
 For E-Shop You need open Folder !(e_shop_automation)! in Your IDE and run this file (..Project#2(E-Shop)\e_shop_automation\src\test\resources\features\e_shop_automation_Scenarios_Of_Test.feature).
 
--#3 For Third one You need to have Maven and you can jast compile and run it in (Terminal). 
+-#3 For Third one You need to have Maven. You can jast compile and run it in (Terminal). 
 for example: go to folder (..Project#1(ZeroBank)\zerobank automation\) and use comand "mvn install".
