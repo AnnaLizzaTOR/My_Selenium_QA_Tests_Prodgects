@@ -1,5 +1,5 @@
 # My_Selenium_QA_Tests_Prodgects
-This is my QA Projects, with Selenium WebDriver. Сreator Volodymyr Khylymendyk.
+This is my QA Projects, with Selenium WebDriver & Cucumber. Сreator Volodymyr Khylymendyk.
 
 You can run my test in thre ways.
 
