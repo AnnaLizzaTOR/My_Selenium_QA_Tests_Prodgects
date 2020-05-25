@@ -11,7 +11,7 @@ For E-Shop You need open Folder !(e_shop_automation)! in Your IDE and run this f
 
 !For shure dont forget import changes for Maven project.!
 
--#2 For Secod one (RUN WITH CUCUMBER) you need you will need seme for example "Intellij IDEA".
+-#2 For Secod one (RUN WITH CUCUMBER) you will need seme for example "Intellij IDEA".
 
 For ZeroBank You need open Folder !(zerobank automation)! in Your IDE and run this file (..Project#1(ZeroBank)\zerobank automation\src\test\resources\features\ZeroBank_Scenarios_Of_Test.feature).
 
