@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e07b1fdf-1054-4ec2-9016-9a90d3aa3d84" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinition/TestContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDefinition/TestContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ZeroBank_Test_OOP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ZeroBank_Test_OOP.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1aPWUA5WjNiBaPDtdJzgauktdLC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../e_shop_automation" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\workx\Desktop\Final HomeWork\zerobank automation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber java.Feature: ZeroBank_Scenarios_Of_Test (1)">
+    <configuration name="Feature: ZeroBank_Scenarios_Of_Test (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/ZeroBank_Scenarios_Of_Test.feature" />
+      <option name="GLUE" value="StepDefinition" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="zerobank automation" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: ZeroBank_Scenarios_Of_Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: ZeroBank_Scenarios_Of_Test" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/ZeroBank_Scenarios_Of_Test.feature" />
+      <option name="GLUE" value="StepDefinition" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="zerobank" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: ZeroBank_Scenarios_Of_Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CucumberTestRunner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="zerobank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestRunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestRunner" />
+      <option name="MAIN_CLASS_NAME" value="TestRunner.CucumberTestRunner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZeroBank_Test_OOP (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="zerobank automation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ZeroBank_Test_OOP" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZeroBank_Test_OOP" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="zerobank" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ZeroBank_Test_OOP" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Feature: ZeroBank_Scenarios_Of_Test (1)" />
+        <item itemvalue="TestNG.ZeroBank_Test_OOP (1)" />
+        <item itemvalue="TestNG.CucumberTestRunner" />
+        <item itemvalue="TestNG.ZeroBank_Test_OOP" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e07b1fdf-1054-4ec2-9016-9a90d3aa3d84" name="Default Changelist" comment="" />
+      <created>1586637722216</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586637722216</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="448" y="232" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587066278331">
+      <screen x="0" y="0" width="1986" height="1152" />
+    </state>
+    <state x="448" y="232" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1986.1152@0.0.1986.1152" timestamp="1587066278331" />
+    <state x="295" y="440" width="403" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586652829192">
+      <screen x="0" y="0" width="1986" height="1152" />
+    </state>
+    <state x="295" y="440" width="403" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1986.1152@0.0.1986.1152" timestamp="1586652829192" />
+    <state x="774" y="332" key="FileChooserDialogImpl" timestamp="1590427799511">
+      <screen x="0" y="0" width="1986" height="1152" />
+    </state>
+    <state x="774" y="332" key="FileChooserDialogImpl/0.0.1986.1152@0.0.1986.1152" timestamp="1590427799511" />
+    <state width="1943" height="349" key="GridCell.Tab.0.bottom" timestamp="1590427779047">
+      <screen x="0" y="0" width="1986" height="1152" />
+    </state>
+    <state width="1943" height="349" key="GridCell.Tab.0.bottom/0.0.1986.1152@0.0.1986.1152" timestamp="1590427779047" />
+    <state width="1943" height="349" key="GridCell.Tab.0.center" timestamp="1590427779047">
+      <screen x="0" y="0" width="1986" height="1152" />
+    </state>
+    <state width="1943" height="349" key="GridCell.Tab.0.center/0.0.1986.1152@0.0.1986.1152" timestamp="1590427779047" />
+    <state width="1943" height="349" key="GridCell.Tab.0.left" timestamp="1590427779047">
+      <screen x="0" y="0" width="1986" height="1152" />
+    </state>
+    <state width="1943" height="349" key="GridCell.Tab.0.left/0.0.1986.1152@0.0.1986.1152" timestamp="1590427779047" />
+    <state width="1943" height="349" key="GridCell.Tab.0.right" timestamp="1590427779047">
+      <screen x="0" y="0" width="1986" height="1152" />
+    </state>
+    <state width="1943" height="349" key="GridCell.Tab.0.right/0.0.1986.1152@0.0.1986.1152" timestamp="1590427779047" />
+    <state width="1943" height="392" key="GridCell.Tab.1.bottom" timestamp="1587090271158">
+      <screen x="0" y="0" width="1986" height="1152" />
+    </state>
+    <state width="1943" height="392" key="GridCell.Tab.1.bottom/0.0.1986.1152@0.0.1986.1152" timestamp="1587090271158" />
+    <state width="1943" height="392" key="GridCell.Tab.1.center" timestamp="1587090271158">
+      <screen x="0" y="0" width="1986" height="1152" />
+    </state>
+    <state width="1943" height="392" key="GridCell.Tab.1.center/0.0.1986.1152@0.0.1986.1152" timestamp="1587090271158" />
+    <state width="1943" height="392" key="GridCell.Tab.1.left" timestamp="1587090271158">
+      <screen x="0" y="0" width="1986" height="1152" />
+    </state>
+    <state width="1943" height="392" key="GridCell.Tab.1.left/0.0.1986.1152@0.0.1986.1152" timestamp="1587090271158" />
+    <state width="1943" height="392" key="GridCell.Tab.1.right" timestamp="1587090271158">
+      <screen x="0" y="0" width="1986" height="1152" />
+    </state>
+    <state width="1943" height="392" key="GridCell.Tab.1.right/0.0.1986.1152@0.0.1986.1152" timestamp="1587090271158" />
+    <state x="524" y="232" key="Maven.ArtifactSearchDialog" timestamp="1587835731501">
+      <screen x="0" y="0" width="1986" height="1152" />
+    </state>
+    <state x="524" y="232" key="Maven.ArtifactSearchDialog/0.0.1986.1152@0.0.1986.1152" timestamp="1587835731501" />
+    <state x="6" y="224" key="SettingsEditor" timestamp="1586640484849">
+      <screen x="0" y="0" width="1986" height="1152" />
+    </state>
+    <state x="6" y="224" key="SettingsEditor/0.0.1986.1152@0.0.1986.1152" timestamp="1586640484849" />
+    <state x="434" y="273" key="new project wizard" timestamp="1586970513748">
+      <screen x="0" y="0" width="1986" height="1152" />
+    </state>
+    <state x="434" y="273" key="new project wizard/0.0.1986.1152@0.0.1986.1152" timestamp="1586970513748" />
+    <state x="1242" y="502" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1587077499375">
+      <screen x="0" y="0" width="1986" height="1152" />
+    </state>
+    <state x="1242" y="502" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1986.1152@0.0.1986.1152" timestamp="1587077499375" />
+    <state x="160" y="258" width="672" height="678" key="search.everywhere.popup" timestamp="1587076114564">
+      <screen x="0" y="0" width="1986" height="1152" />
+    </state>
+    <state x="160" y="258" width="672" height="678" key="search.everywhere.popup/0.0.1986.1152@0.0.1986.1152" timestamp="1587076114564" />
+  </component>
+</project>
